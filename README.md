@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on <a href="https://www.bnpparibas.co.in/en/">BNP Paribas</a>
+
+🌱 I’m currently learning Nest JS
+
+👯 I’m looking to collaborate on with Javasctipts folks to learn and fun
+
+💬 Ask me about any Javascript/JS Libs/JS Framework queries
+
+✨ <b>Competencies:</b> JavaScript, AngularJS, Angular 2/4/5/6/7/8/9/10/11/12/13/14, HTML5 Java, J2EE, Hibernate, Servelets, TypeScript, Bootstrap, jQuery, Apache Cordova, Jenkins, Sonar Cube, Devops, CSS, UNIX
+
+
+📫 How to reach me: 
+
+Gmail:- prabakarkaruppasamy@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/prabakarsamy
+
+
+
+
