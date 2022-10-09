@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me: 
 
-Gmail:- prabakarkaruppasamy@gmail.com
+<b>Gmail:</b> prabakarkaruppasamy@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/prabakarsamy
+<b>LinkedIn:</b> https://www.linkedin.com/in/prabakarsamy
 
 
 
