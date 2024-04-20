@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on <a href="https://www.bnpparibas.co.in/en/">BNP Paribas</a>
+🔭 I’m currently working on <a href="https://www.bankofamerica.com/">Bank of America</a>
 
 🌱 I’m currently learning Nest JS
 
