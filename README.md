@@ -69,7 +69,7 @@ I specialise in **Angular** (AngularJS through Angular 19), large-scale SPA arch
 | Project | Description | Tech | Status |
 |---|---|---|---|
 | [🔐 Angular CSP Nonce](https://github.com/PrabakarKaruppasamy/Angular-CSP-Nonce) | Enterprise-grade Content Security Policy nonce implementation in Angular — preventing XSS in banking applications. Passed A+ security header audits. | Angular, CSP, Security | ✅ Live |
-| 🎨 angular-design-system | Reusable Angular 19 component library with Storybook documentation, Tailwind styling, and Nx monorepo architecture — adopted pattern from BNP Paribas squads | Angular 19, Storybook, Tailwind, Nx | 🚧 In Progress |
+| 🎨 [angular-design-system](https://github.com/PrabakarKaruppasamy/angular-design-system) | Reusable Angular 21 component library with Storybook, Tailwind and Nx — [Live Storybook ↗](https://prabakarkaruppasamy.github.io/angular-design-system/) | Angular 21, Storybook, Tailwind, Nx | ✅ Live ||
 | 📊 angular-fintech-dashboard | Real-time financial dashboard with live WebSocket price feeds, NgRx Signal Store state management, and Chart.js visualisations | Angular 19, NgRx, Signals, Chart.js, WebSocket | 🚧 In Progress |
 | 🤖 angular-ai-chat | AI chat interface with streaming token-by-token responses built entirely on Angular Signals — no Subjects, pure reactive state | Angular 19, Signals, SSE, OpenAI | 🚧 In Progress |
 | 🧩 angular-micro-frontend-demo | Module Federation demo — Angular 19 shell dynamically hosting Angular and React micro-apps with shared dependency strategy | Nx, Webpack 5 MF, Angular 19 | 🚧 In Progress |
@@ -81,7 +81,7 @@ I specialise in **Angular** (AngularJS through Angular 19), large-scale SPA arch
 
 ```
 ✅ Led Angular 8 → 16 migration at Bank of America with ZERO production downtime
-✅ Architected multi-persona private banking dashboard (BNP Paribas Italy)
+✅ Architected multi-persona private banking dashboard
 ✅ Delivered reusable Angular component library — adopted by 3+ squads, ~30% faster delivery
 ✅ Implemented SSO/OIDC authentication across enterprise portals
 ✅ Built treasury management platform for ACH payments & wire transfers
