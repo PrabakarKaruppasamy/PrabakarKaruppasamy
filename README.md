@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/PK_Git_Banner.png" alt="Prabakar Karuppasamy GitHub Banner" width="100%">
+</p>
+
 # Hi, I'm Prabakar Karuppasamy 👋
 
 **Frontend Architect · Technical Lead · Angular Specialist**  
