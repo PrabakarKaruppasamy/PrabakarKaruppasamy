@@ -1,7 +1,7 @@
 # Hi, I'm Prabakar Karuppasamy 👋
 
 **Frontend Architect · Technical Lead · Angular Specialist**  
-📍 Chennai, India &nbsp;|&nbsp;  Frontend Architect &nbsp;|&nbsp; 14+ Years in Enterprise Web Engineering
+📍 Chennai, India &nbsp;|&nbsp;  Enterprise Frontend Engineering &nbsp;|&nbsp; 14+ Years in Enterprise Web Engineering
 
 ---
 
