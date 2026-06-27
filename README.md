@@ -1,13 +1,13 @@
 # Hi, I'm Prabakar Karuppasamy 👋
 
 **Frontend Architect · Technical Lead · Angular Specialist**  
-📍 Chennai, India &nbsp;|&nbsp; 🏦 BNP Paribas India Solutions &nbsp;|&nbsp; 14+ Years in Enterprise Web Engineering
+📍 Chennai, India &nbsp;|&nbsp;  Frontend Architect &nbsp;|&nbsp; 14+ Years in Enterprise Web Engineering
 
 ---
 
 ## 🚀 About Me
 
-I'm a Frontend Architect and Technical Lead with 14+ years of experience building enterprise-grade web applications for global banking and financial institutions — including **BNP Paribas** and **Bank of America**.
+I'm a Frontend Architect and Technical Lead with 14+ years of experience building enterprise-grade web applications for global banking and financial institutions. I specialize in Angular architecture, enterprise UI platforms, authentication, and high-performance frontend engineering.
 
 I specialise in **Angular** (AngularJS through Angular 19), large-scale SPA architecture, component library design, SSO/OIDC security implementation, and UI performance optimisation. I've led teams, owned frontend delivery, and architected modular platforms serving private banking clients across Europe.
 
@@ -80,8 +80,8 @@ I specialise in **Angular** (AngularJS through Angular 19), large-scale SPA arch
 ## 💼 Professional Highlights
 
 ```
-✅ Led Angular 8 → 16 migration at Bank of America with ZERO production downtime
-✅ Architected multi-persona private banking dashboard
+✅ Led Angular 8 → 16 migration for a large-scale enterprise banking platform with zero production downtime.
+✅ Architected a multi-persona wealth management dashboard for a global financial institution.
 ✅ Delivered reusable Angular component library — adopted by 3+ squads, ~30% faster delivery
 ✅ Implemented SSO/OIDC authentication across enterprise portals
 ✅ Built treasury management platform for ACH payments & wire transfers
