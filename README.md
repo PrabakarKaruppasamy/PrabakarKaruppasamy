@@ -7,15 +7,13 @@
 
 ## 🚀 About Me
 
-I'm a Frontend Architect and Technical Lead with 14+ years of experience building enterprise-grade web applications for global banking and financial institutions. I specialize in Angular architecture, enterprise UI platforms, authentication, and high-performance frontend engineering.
+I'm a Frontend Architect and Technical Lead with 14+ years of experience building enterprise-grade web applications for global banking and financial institutions. I specialize in Angular (AngularJS through Angular 19), large-scale SPA architecture, reusable component libraries, SSO/OIDC authentication, enterprise security, and high-performance frontend engineering. I've led cross-functional teams and architected modular platforms serving private banking and wealth management clients across Europe.
 
-I specialise in **Angular** (AngularJS through Angular 19), large-scale SPA architecture, component library design, SSO/OIDC security implementation, and UI performance optimisation. I've led teams, owned frontend delivery, and architected modular platforms serving private banking clients across Europe.
-
-- 🔭 Currently leading enterprise frontend architecture for a Private Banking & Wealth Management platform.
+- 🔭 Leading enterprise frontend architecture for a private banking and wealth management platform
 - 🔐 Deep expertise in **SSO / OIDC authentication**, CSP headers, RBAC, and enterprise security
 - 📊 Built real-time financial dashboards and treasury management platforms at scale
 - 🧱 Designed and delivered reusable **Angular component libraries** adopted across multiple product squads
-- 🌍 Open to opportunities across **India (any location), Remote, or Abroad**
+- 🌍 Open to Senior Frontend Architect, Technical Lead, Staff Engineer, and Principal Engineer opportunities across India, Remote, and international locations.
 
 ---
 
@@ -94,12 +92,14 @@ I specialise in **Angular** (AngularJS through Angular 19), large-scale SPA arch
 
 ![Prabakar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrabakarKaruppasamy&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabakarKaruppasamy&layout=compact&theme=dark&hide_border=true)
+
 ---
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabakarsamy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabakaroff@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabakar.karu@gmail.com)
 
 ---
 
